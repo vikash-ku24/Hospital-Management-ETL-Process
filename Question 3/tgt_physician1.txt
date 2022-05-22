@@ -1,0 +1,5 @@
+#Physician_ID,Name,Joining_Year,Speciality,Designation,Experience
+10,Dr. Suman Mohan,2003,Radiologists,Surgeon,7
+21,Dr. Rakesh Singh,2003,Dermatologists,Surgeon,20
+9,Dr. Inderjeet Singh,2008,Oncologists,Surgeon,27
+18,Dr. Neha Sood,2009,Neurologists,Surgeon,13
