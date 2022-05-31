@@ -1,0 +1,240 @@
+2022-04-13 21:32:27 : INFO : (4308 | DIRECTOR) : (IS | INT_RepoAcademy) : node01 : TM_6014 : Initializing session [s_m_each_insurance_data] at [Wed Apr 13 21:32:27 2022].
+2022-04-13 21:32:27 : INFO : (4308 | DIRECTOR) : (IS | INT_RepoAcademy) : node01 : TM_6683 : Repository Name: [Repo_Academy]
+2022-04-13 21:32:27 : INFO : (4308 | DIRECTOR) : (IS | INT_RepoAcademy) : node01 : TM_6684 : Server Name: [INT_RepoAcademy]
+2022-04-13 21:32:27 : INFO : (4308 | DIRECTOR) : (IS | INT_RepoAcademy) : node01 : TM_6686 : Folder: [Training_Academy]
+2022-04-13 21:32:27 : INFO : (4308 | DIRECTOR) : (IS | INT_RepoAcademy) : node01 : TM_6685 : Workflow: [wkf_s_m_each_insurance_data] Run Instance Name: [] Run Id: [68]
+2022-04-13 21:32:27 : INFO : (4308 | DIRECTOR) : (IS | INT_RepoAcademy) : node01 : TM_6101 : Mapping name: m_each_insurance_data [version CheckedOut].
+2022-04-13 21:32:27 : INFO : (4308 | DIRECTOR) : (IS | INT_RepoAcademy) : node01 : TM_6964 : Date format for the Session is [MM/DD/YYYY HH24:MI:SS.US]
+2022-04-13 21:32:27 : INFO : (4308 | DIRECTOR) : (IS | INT_RepoAcademy) : node01 : TM_6708 : Using configuration property [EnableDataEncryption,no]
+2022-04-13 21:32:27 : INFO : (4308 | DIRECTOR) : (IS | INT_RepoAcademy) : node01 : TM_6708 : Using configuration property [StoreHAPersistenceInDB,no]
+2022-04-13 21:32:27 : INFO : (4308 | DIRECTOR) : (IS | INT_RepoAcademy) : node01 : TM_6703 : Session [s_m_each_insurance_data] is run by 64-bit Integration Service  [node01], version [10.1.0], build [0609].
+2022-04-13 21:32:27 : INFO : (4308 | MANAGER) : (IS | INT_RepoAcademy) : node01 : PETL_24091 : Thread [MANAGER] has the ID [1].
+2022-04-13 21:32:27 : INFO : (4308 | MANAGER) : (IS | INT_RepoAcademy) : node01 : PETL_24058 : Running Partition Group [1].
+2022-04-13 21:32:27 : INFO : (4308 | MANAGER) : (IS | INT_RepoAcademy) : node01 : PETL_24000 : Parallel Pipeline Engine initializing.
+2022-04-13 21:32:27 : INFO : (4308 | MONITOR) : (IS | INT_RepoAcademy) : node01 : PETL_24091 : Thread [MONITOR] has the ID [2].
+2022-04-13 21:32:27 : INFO : (4308 | MANAGER) : (IS | INT_RepoAcademy) : node01 : PETL_24001 : Parallel Pipeline Engine running.
+2022-04-13 21:32:27 : INFO : (4308 | MANAGER) : (IS | INT_RepoAcademy) : node01 : PETL_24003 : Initializing session run.
+2022-04-13 21:32:27 : INFO : (4308 | MAPPING) : (IS | INT_RepoAcademy) : node01 : PETL_24091 : Thread [MAPPING] has the ID [3].
+2022-04-13 21:32:27 : INFO : (4308 | MAPPING) : (IS | INT_RepoAcademy) : node01 : CMN_1569 : Server Mode: [ASCII]
+2022-04-13 21:32:27 : INFO : (4308 | MAPPING) : (IS | INT_RepoAcademy) : node01 : CMN_1570 : Server Code page: [MS Windows Latin 1 (ANSI), superset of Latin1]
+2022-04-13 21:32:27 : INFO : (4308 | MAPPING) : (IS | INT_RepoAcademy) : node01 : TM_6151 : The session sort order is [Binary].
+2022-04-13 21:32:27 : INFO : (4308 | MAPPING) : (IS | INT_RepoAcademy) : node01 : TM_6156 : Using low precision processing.
+2022-04-13 21:32:27 : INFO : (4308 | MAPPING) : (IS | INT_RepoAcademy) : node01 : TM_6180 : Deadlock retry logic will not be implemented.
+2022-04-13 21:32:27 : INFO : (4308 | MAPPING) : (IS | INT_RepoAcademy) : node01 : TM_6187 : Session target-based commit interval is [10000].
+2022-04-13 21:32:27 : INFO : (4308 | MAPPING) : (IS | INT_RepoAcademy) : node01 : TM_6307 : DTM error log disabled. 
+2022-04-13 21:32:27 : INFO : (4308 | MAPPING) : (IS | INT_RepoAcademy) : node01 : TE_7022 : TShmWriter: Initialized
+2022-04-13 21:32:27 : INFO : (4308 | MAPPING) : (IS | INT_RepoAcademy) : node01 : DBG_21694 : jn_insurance_id Partition [0]: Index cache size = [178956970], Data cache size = [357913940]
+2022-04-13 21:32:27 : INFO : (4308 | MAPPING) : (IS | INT_RepoAcademy) : node01 : TT_11098 : The Joiner transformation [jn_insurance_id] is configured with the join algorithm: Nested-Loop.
+2022-04-13 21:32:27 : INFO : (4308 | MAPPING) : (IS | INT_RepoAcademy) : node01 : TM_6007 : DTM initialized successfully for session [s_m_each_insurance_data]
+2022-04-13 21:32:27 : INFO : (4308 | DIRECTOR) : (IS | INT_RepoAcademy) : node01 : PETL_24033 : All DTM Connection Info: [<NONE>].
+2022-04-13 21:32:27 : INFO : (4308 | MANAGER) : (IS | INT_RepoAcademy) : node01 : PETL_24004 : PETL_24004 Starting pre-session tasks. : (Wed Apr 13 21:32:27 2022)
+2022-04-13 21:32:27 : INFO : (4308 | PRE-SESS) : (IS | INT_RepoAcademy) : node01 : PETL_24091 : Thread [PRE-SESS] has the ID [4].
+2022-04-13 21:32:28 : INFO : (4308 | MANAGER) : (IS | INT_RepoAcademy) : node01 : PETL_24027 : PETL_24027 Pre-session task completed successfully. : (Wed Apr 13 21:32:28 2022)
+2022-04-13 21:32:28 : INFO : (4308 | DIRECTOR) : (IS | INT_RepoAcademy) : node01 : PETL_24006 : Starting data movement.
+2022-04-13 21:32:28 : INFO : (4308 | MAPPING) : (IS | INT_RepoAcademy) : node01 : TM_6660 : Total Buffer Pool size is 24000000 bytes and Block size is 65536 bytes.
+2022-04-13 21:32:28 : INFO : (4308 | READER_1_1_1) : (IS | INT_RepoAcademy) : node01 : PETL_24091 : Thread [READER_1_1_1] has the ID [5].
+2022-04-13 21:32:28 : INFO : (4308 | READER_1_1_1) : (IS | INT_RepoAcademy) : node01 : DBG_21437 : Reader: Source is a file-based source.
+2022-04-13 21:32:28 : INFO : (4308 | READER_1_1_1) : (IS | INT_RepoAcademy) : node01 : FR_3118 : source [SQ_patient_module] code page: [MS Windows Latin 1 (ANSI), superset of Latin1]
+2022-04-13 21:32:28 : INFO : (4308 | READER_1_1_1) : (IS | INT_RepoAcademy) : node01 : FR_3071 : Maximum Line sequential buffer length is 1026.
+2022-04-13 21:32:28 : INFO : (4308 | READER_1_1_1) : (IS | INT_RepoAcademy) : node01 : BLKR_16003 : Initialization completed successfully.
+2022-04-13 21:32:28 : INFO : (4308 | TRANSF_1_1_1) : (IS | INT_RepoAcademy) : node01 : PETL_24091 : Thread [TRANSF_1_1_1] has the ID [6].
+2022-04-13 21:32:28 : INFO : (4308 | READER_1_2_1) : (IS | INT_RepoAcademy) : node01 : PETL_24091 : Thread [READER_1_2_1] has the ID [7].
+2022-04-13 21:32:28 : INFO : (4308 | READER_1_2_1) : (IS | INT_RepoAcademy) : node01 : DBG_21437 : Reader: Source is a file-based source.
+2022-04-13 21:32:28 : INFO : (4308 | READER_1_2_1) : (IS | INT_RepoAcademy) : node01 : FR_3118 : source [SQ_insurance_module] code page: [MS Windows Latin 1 (ANSI), superset of Latin1]
+2022-04-13 21:32:28 : INFO : (4308 | READER_1_2_1) : (IS | INT_RepoAcademy) : node01 : FR_3071 : Maximum Line sequential buffer length is 1026.
+2022-04-13 21:32:28 : INFO : (4308 | READER_1_2_1) : (IS | INT_RepoAcademy) : node01 : BLKR_16003 : Initialization completed successfully.
+2022-04-13 21:32:28 : INFO : (4308 | TRANSF_1_2_1) : (IS | INT_RepoAcademy) : node01 : PETL_24091 : Thread [TRANSF_1_2_1] has the ID [8].
+2022-04-13 21:32:28 : INFO : (4308 | WRITER_1_*_1) : (IS | INT_RepoAcademy) : node01 : PETL_24091 : Thread [WRITER_1_*_1] has the ID [9].
+2022-04-13 21:32:28 : INFO : (4308 | WRITER_1_*_1) : (IS | INT_RepoAcademy) : node01 : WRT_8124 : Target Table each_insurance_data_tgt :Writing output to: C:\Users\Administrator\Documents\hospital_management_project\afi_insurance_data_tgt.txt
+2022-04-13 21:32:28 : INFO : (4308 | WRITER_1_*_1) : (IS | INT_RepoAcademy) : node01 : WRT_8222 : Target file [C:\Users\Administrator\Documents\hospital_management_project\afi_insurance_data_tgt.txt] code page: [MS Windows Latin 1 (ANSI), superset of Latin1]
+2022-04-13 21:32:28 : INFO : (4308 | WRITER_1_*_1) : (IS | INT_RepoAcademy) : node01 : WRT_8124 : Target Table each_insurance_data_tgt :Writing output to: C:\Users\Administrator\Documents\hospital_management_project\ohi_insurance_data_tgt.txt
+2022-04-13 21:32:28 : INFO : (4308 | WRITER_1_*_1) : (IS | INT_RepoAcademy) : node01 : WRT_8222 : Target file [C:\Users\Administrator\Documents\hospital_management_project\ohi_insurance_data_tgt.txt] code page: [MS Windows Latin 1 (ANSI), superset of Latin1]
+2022-04-13 21:32:28 : INFO : (4308 | WRITER_1_*_1) : (IS | INT_RepoAcademy) : node01 : WRT_8124 : Target Table each_insurance_data_tgt :Writing output to: C:\Users\Administrator\Documents\hospital_management_project\whp_insurance_data_tgt.txt
+2022-04-13 21:32:28 : INFO : (4308 | WRITER_1_*_1) : (IS | INT_RepoAcademy) : node01 : WRT_8222 : Target file [C:\Users\Administrator\Documents\hospital_management_project\whp_insurance_data_tgt.txt] code page: [MS Windows Latin 1 (ANSI), superset of Latin1]
+2022-04-13 21:32:28 : INFO : (4308 | WRITER_1_*_1) : (IS | INT_RepoAcademy) : node01 : WRT_8124 : Target Table each_insurance_data_tgt :Writing output to: C:\Users\Administrator\Documents\hospital_management_project\ahip_insurance_data_tgt.txt
+2022-04-13 21:32:28 : INFO : (4308 | WRITER_1_*_1) : (IS | INT_RepoAcademy) : node01 : WRT_8222 : Target file [C:\Users\Administrator\Documents\hospital_management_project\ahip_insurance_data_tgt.txt] code page: [MS Windows Latin 1 (ANSI), superset of Latin1]
+2022-04-13 21:32:28 : INFO : (4308 | WRITER_1_*_1) : (IS | INT_RepoAcademy) : node01 : WRT_8124 : Target Table each_insurance_data_tgt :Writing output to: C:\Users\Administrator\Documents\hospital_management_project\fehbp_insurance_data_tgt.txt
+2022-04-13 21:32:28 : INFO : (4308 | WRITER_1_*_1) : (IS | INT_RepoAcademy) : node01 : WRT_8222 : Target file [C:\Users\Administrator\Documents\hospital_management_project\fehbp_insurance_data_tgt.txt] code page: [MS Windows Latin 1 (ANSI), superset of Latin1]
+2022-04-13 21:32:28 : INFO : (4308 | WRITER_1_*_1) : (IS | INT_RepoAcademy) : node01 : WRT_8124 : Target Table each_insurance_data_tgt :Writing output to: C:\Users\Administrator\Documents\hospital_management_project\ohp_insurance_data_tgt.txt
+2022-04-13 21:32:28 : INFO : (4308 | WRITER_1_*_1) : (IS | INT_RepoAcademy) : node01 : WRT_8222 : Target file [C:\Users\Administrator\Documents\hospital_management_project\ohp_insurance_data_tgt.txt] code page: [MS Windows Latin 1 (ANSI), superset of Latin1]
+2022-04-13 21:32:28 : INFO : (4308 | WRITER_1_*_1) : (IS | INT_RepoAcademy) : node01 : WRT_8124 : Target Table each_insurance_data_tgt :Writing output to: C:\Users\Administrator\Documents\hospital_management_project\chc_insurance_data_tgt.txt
+2022-04-13 21:32:28 : INFO : (4308 | WRITER_1_*_1) : (IS | INT_RepoAcademy) : node01 : WRT_8222 : Target file [C:\Users\Administrator\Documents\hospital_management_project\chc_insurance_data_tgt.txt] code page: [MS Windows Latin 1 (ANSI), superset of Latin1]
+2022-04-13 21:32:28 : INFO : (4308 | WRITER_1_*_1) : (IS | INT_RepoAcademy) : node01 : WRT_8124 : Target Table each_insurance_data_tgt :Writing output to: C:\Users\Administrator\Documents\hospital_management_project\nhp_insurance_data_tgt.txt
+2022-04-13 21:32:28 : INFO : (4308 | WRITER_1_*_1) : (IS | INT_RepoAcademy) : node01 : WRT_8222 : Target file [C:\Users\Administrator\Documents\hospital_management_project\nhp_insurance_data_tgt.txt] code page: [MS Windows Latin 1 (ANSI), superset of Latin1]
+2022-04-13 21:32:28 : INFO : (4308 | WRITER_1_*_1) : (IS | INT_RepoAcademy) : node01 : WRT_8124 : Target Table each_insurance_data_tgt :Writing output to: C:\Users\Administrator\Documents\hospital_management_project\shali_insurance_data_tgt.txt
+2022-04-13 21:32:28 : INFO : (4308 | WRITER_1_*_1) : (IS | INT_RepoAcademy) : node01 : WRT_8222 : Target file [C:\Users\Administrator\Documents\hospital_management_project\shali_insurance_data_tgt.txt] code page: [MS Windows Latin 1 (ANSI), superset of Latin1]
+2022-04-13 21:32:28 : INFO : (4308 | WRITER_1_*_1) : (IS | INT_RepoAcademy) : node01 : WRT_8124 : Target Table each_insurance_data_tgt :Writing output to: C:\Users\Administrator\Documents\hospital_management_project\chi_insurance_data_tgt.txt
+2022-04-13 21:32:28 : INFO : (4308 | WRITER_1_*_1) : (IS | INT_RepoAcademy) : node01 : WRT_8222 : Target file [C:\Users\Administrator\Documents\hospital_management_project\chi_insurance_data_tgt.txt] code page: [MS Windows Latin 1 (ANSI), superset of Latin1]
+2022-04-13 21:32:28 : INFO : (4308 | WRITER_1_*_1) : (IS | INT_RepoAcademy) : node01 : WRT_8124 : Target Table each_insurance_data_tgt :Writing output to: C:\Users\Administrator\Documents\hospital_management_project\hphc_insurance_data_tgt.txt
+2022-04-13 21:32:28 : INFO : (4308 | WRITER_1_*_1) : (IS | INT_RepoAcademy) : node01 : WRT_8222 : Target file [C:\Users\Administrator\Documents\hospital_management_project\hphc_insurance_data_tgt.txt] code page: [MS Windows Latin 1 (ANSI), superset of Latin1]
+2022-04-13 21:32:28 : INFO : (4308 | WRITER_1_*_1) : (IS | INT_RepoAcademy) : node01 : WRT_8270 : Target connection group #1 consists of target(s) [each_insurance_data_tgt]
+2022-04-13 21:32:28 : INFO : (4308 | WRITER_1_*_1) : (IS | INT_RepoAcademy) : node01 : WRT_8270 : Target connection group #2 consists of target(s) [each_insurance_data_tgt]
+2022-04-13 21:32:28 : INFO : (4308 | WRITER_1_*_1) : (IS | INT_RepoAcademy) : node01 : WRT_8270 : Target connection group #3 consists of target(s) [each_insurance_data_tgt]
+2022-04-13 21:32:28 : INFO : (4308 | WRITER_1_*_1) : (IS | INT_RepoAcademy) : node01 : WRT_8270 : Target connection group #4 consists of target(s) [each_insurance_data_tgt]
+2022-04-13 21:32:28 : INFO : (4308 | WRITER_1_*_1) : (IS | INT_RepoAcademy) : node01 : WRT_8270 : Target connection group #5 consists of target(s) [each_insurance_data_tgt]
+2022-04-13 21:32:28 : INFO : (4308 | WRITER_1_*_1) : (IS | INT_RepoAcademy) : node01 : WRT_8270 : Target connection group #6 consists of target(s) [each_insurance_data_tgt]
+2022-04-13 21:32:28 : INFO : (4308 | WRITER_1_*_1) : (IS | INT_RepoAcademy) : node01 : WRT_8270 : Target connection group #7 consists of target(s) [each_insurance_data_tgt]
+2022-04-13 21:32:28 : INFO : (4308 | WRITER_1_*_1) : (IS | INT_RepoAcademy) : node01 : WRT_8270 : Target connection group #8 consists of target(s) [each_insurance_data_tgt]
+2022-04-13 21:32:28 : INFO : (4308 | WRITER_1_*_1) : (IS | INT_RepoAcademy) : node01 : WRT_8270 : Target connection group #9 consists of target(s) [each_insurance_data_tgt]
+2022-04-13 21:32:28 : INFO : (4308 | WRITER_1_*_1) : (IS | INT_RepoAcademy) : node01 : WRT_8270 : Target connection group #10 consists of target(s) [each_insurance_data_tgt]
+2022-04-13 21:32:28 : INFO : (4308 | WRITER_1_*_1) : (IS | INT_RepoAcademy) : node01 : WRT_8270 : Target connection group #11 consists of target(s) [each_insurance_data_tgt]
+2022-04-13 21:32:28 : INFO : (4308 | WRITER_1_*_1) : (IS | INT_RepoAcademy) : node01 : WRT_8003 : Writer initialization complete.
+2022-04-13 21:32:28 : INFO : (4308 | READER_1_1_1) : (IS | INT_RepoAcademy) : node01 : BLKR_16007 : Reader run started.
+2022-04-13 21:32:28 : INFO : (4308 | READER_1_2_1) : (IS | INT_RepoAcademy) : node01 : BLKR_16007 : Reader run started.
+2022-04-13 21:32:28 : INFO : (4308 | WRITER_1_*_1) : (IS | INT_RepoAcademy) : node01 : WRT_8005 : Writer run started.
+2022-04-13 21:32:28 : INFO : (4308 | WRITER_1_*_1) : (IS | INT_RepoAcademy) : node01 : WRT_8158 : 
+
+*****START LOAD SESSION*****
+
+Load Start Time: Wed Apr 13 21:32:28 2022
+
+Target tables:
+
+     each_insurance_data_tgt
+     each_insurance_data_tgt
+     each_insurance_data_tgt
+     each_insurance_data_tgt
+     each_insurance_data_tgt
+     each_insurance_data_tgt
+     each_insurance_data_tgt
+     each_insurance_data_tgt
+     each_insurance_data_tgt
+     each_insurance_data_tgt
+     each_insurance_data_tgt
+
+
+2022-04-13 21:32:28 : INFO : (4308 | READER_1_1_1) : (IS | INT_RepoAcademy) : node01 : FR_3076 : Skipped over [1] lines.
+2022-04-13 21:32:28 : INFO : (4308 | READER_1_2_1) : (IS | INT_RepoAcademy) : node01 : FR_3076 : Skipped over [1] lines.
+2022-04-13 21:32:28 : INFO : (4308 | READER_1_1_1) : (IS | INT_RepoAcademy) : node01 : DBG_21430 : DBG_21430 Reading data from input source file [C:\Users\Administrator\Documents\hospital_management_project\patient_module.csv] : (Wed Apr 13 21:32:28 2022)
+2022-04-13 21:32:28 : INFO : (4308 | READER_1_2_1) : (IS | INT_RepoAcademy) : node01 : DBG_21430 : DBG_21430 Reading data from input source file [C:\Users\Administrator\Documents\hospital_management_project\insurance_module.csv] : (Wed Apr 13 21:32:28 2022)
+2022-04-13 21:32:28 : INFO : (4308 | TRANSF_1_2_1) : (IS | INT_RepoAcademy) : node01 : DBG_21077 : DBG_21077 Create joiner cache on master relation : (Wed Apr 13 21:32:28 2022)
+2022-04-13 21:32:28 : INFO : (4308 | READER_1_2_1) : (IS | INT_RepoAcademy) : node01 : BLKR_16019 : Read [430] rows, read [0] error rows for source table [insurance_module] instance name [insurance_module]
+2022-04-13 21:32:28 : INFO : (4308 | READER_1_2_1) : (IS | INT_RepoAcademy) : node01 : BLKR_16008 : Reader run completed.
+2022-04-13 21:32:28 : INFO : (4308 | READER_1_1_1) : (IS | INT_RepoAcademy) : node01 : BLKR_16019 : Read [500] rows, read [0] error rows for source table [patient_module] instance name [patient_module]
+2022-04-13 21:32:28 : INFO : (4308 | TRANSF_1_2_1) : (IS | INT_RepoAcademy) : node01 : TE_7212 : Increasing [Index Cache] size for transformation [jn_insurance_id] from [178956970] to [178959600].
+2022-04-13 21:32:28 : INFO : (4308 | READER_1_1_1) : (IS | INT_RepoAcademy) : node01 : BLKR_16008 : Reader run completed.
+2022-04-13 21:32:28 : INFO : (4308 | TRANSF_1_2_1) : (IS | INT_RepoAcademy) : node01 : TE_7212 : Increasing [Data Cache] size for transformation [jn_insurance_id] from [357913940] to [357914480].
+2022-04-13 21:32:28 : INFO : (4308 | TRANSF_1_2_1) : (IS | INT_RepoAcademy) : node01 : CMN_1690 : Created new data file [C:\Informatica\10.1.0\server\infa_shared\Cache\PMJNR25_6_0_68.dat] and index file [C:\Informatica\10.1.0\server\infa_shared\Cache\PMJNR25_6_0_68.idx] for Joiner [jn_insurance_id].
+2022-04-13 21:32:28 : INFO : (4308 | TRANSF_1_2_1) : (IS | INT_RepoAcademy) : node01 : DBG_21214 : DBG_21214 Finished joiner cache on master relation : (Wed Apr 13 21:32:28 2022)
+2022-04-13 21:32:28 : INFO : (4308 | TRANSF_1_2_1) : (IS | INT_RepoAcademy) : node01 : DBG_21216 : Finished transformations for Source Qualifier [SQ_insurance_module]. Total errors [0] 
+2022-04-13 21:32:28 : INFO : (4308 | TRANSF_1_1_1) : (IS | INT_RepoAcademy) : node01 : DBG_21603 : DBG_21603 Open master relation cache for detail joiner : (Wed Apr 13 21:32:28 2022)
+2022-04-13 21:32:28 : INFO : (4308 | TRANSF_1_1_1) : (IS | INT_RepoAcademy) : node01 : DBG_21215 : DBG_21215 Finished processing detail relation : (Wed Apr 13 21:32:28 2022)
+2022-04-13 21:32:28 : INFO : (4308 | WRITER_1_*_1) : (IS | INT_RepoAcademy) : node01 : WRT_8167 : Start loading table [each_insurance_data_tgt] at: Wed Apr 13 21:32:28 2022
+2022-04-13 21:32:28 : INFO : (4308 | TRANSF_1_1_1) : (IS | INT_RepoAcademy) : node01 : CMN_1795 : The index cache size that would hold [430] input rows from the master for [jn_insurance_id], in memory, is [28800] bytes
+2022-04-13 21:32:28 : INFO : (4308 | TRANSF_1_1_1) : (IS | INT_RepoAcademy) : node01 : CMN_1794 : The data cache size that would hold [430] input rows from the master for [jn_insurance_id], in memory, is [66528] bytes
+2022-04-13 21:32:28 : INFO : (4308 | WRITER_1_*_1) : (IS | INT_RepoAcademy) : node01 : WRT_8167 : Start loading table [each_insurance_data_tgt] at: Wed Apr 13 21:32:28 2022
+2022-04-13 21:32:28 : INFO : (4308 | WRITER_1_*_1) : (IS | INT_RepoAcademy) : node01 : WRT_8167 : Start loading table [each_insurance_data_tgt] at: Wed Apr 13 21:32:28 2022
+2022-04-13 21:32:28 : INFO : (4308 | WRITER_1_*_1) : (IS | INT_RepoAcademy) : node01 : WRT_8167 : Start loading table [each_insurance_data_tgt] at: Wed Apr 13 21:32:28 2022
+2022-04-13 21:32:28 : INFO : (4308 | WRITER_1_*_1) : (IS | INT_RepoAcademy) : node01 : WRT_8167 : Start loading table [each_insurance_data_tgt] at: Wed Apr 13 21:32:28 2022
+2022-04-13 21:32:28 : INFO : (4308 | TRANSF_1_1_1) : (IS | INT_RepoAcademy) : node01 : DBG_21216 : Finished transformations for Source Qualifier [SQ_patient_module]. Total errors [0] 
+2022-04-13 21:32:28 : INFO : (4308 | WRITER_1_*_1) : (IS | INT_RepoAcademy) : node01 : WRT_8167 : Start loading table [each_insurance_data_tgt] at: Wed Apr 13 21:32:28 2022
+2022-04-13 21:32:28 : INFO : (4308 | WRITER_1_*_1) : (IS | INT_RepoAcademy) : node01 : WRT_8167 : Start loading table [each_insurance_data_tgt] at: Wed Apr 13 21:32:28 2022
+2022-04-13 21:32:28 : INFO : (4308 | WRITER_1_*_1) : (IS | INT_RepoAcademy) : node01 : WRT_8167 : Start loading table [each_insurance_data_tgt] at: Wed Apr 13 21:32:28 2022
+2022-04-13 21:32:28 : INFO : (4308 | WRITER_1_*_1) : (IS | INT_RepoAcademy) : node01 : WRT_8167 : Start loading table [each_insurance_data_tgt] at: Wed Apr 13 21:32:28 2022
+2022-04-13 21:32:28 : INFO : (4308 | WRITER_1_*_1) : (IS | INT_RepoAcademy) : node01 : WRT_8167 : Start loading table [each_insurance_data_tgt] at: Wed Apr 13 21:32:28 2022
+2022-04-13 21:32:28 : INFO : (4308 | WRITER_1_*_1) : (IS | INT_RepoAcademy) : node01 : WRT_8167 : Start loading table [each_insurance_data_tgt] at: Wed Apr 13 21:32:28 2022
+2022-04-13 21:32:28 : INFO : (4308 | WRITER_1_*_1) : (IS | INT_RepoAcademy) : node01 : WRT_8168 : End loading table [each_insurance_data_tgt] at: Wed Apr 13 21:32:28 2022
+2022-04-13 21:32:28 : INFO : (4308 | WRITER_1_*_1) : (IS | INT_RepoAcademy) : node01 : WRT_8168 : End loading table [each_insurance_data_tgt] at: Wed Apr 13 21:32:28 2022
+2022-04-13 21:32:28 : INFO : (4308 | WRITER_1_*_1) : (IS | INT_RepoAcademy) : node01 : WRT_8168 : End loading table [each_insurance_data_tgt] at: Wed Apr 13 21:32:28 2022
+2022-04-13 21:32:28 : INFO : (4308 | WRITER_1_*_1) : (IS | INT_RepoAcademy) : node01 : WRT_8168 : End loading table [each_insurance_data_tgt] at: Wed Apr 13 21:32:28 2022
+2022-04-13 21:32:28 : INFO : (4308 | WRITER_1_*_1) : (IS | INT_RepoAcademy) : node01 : WRT_8168 : End loading table [each_insurance_data_tgt] at: Wed Apr 13 21:32:28 2022
+2022-04-13 21:32:28 : INFO : (4308 | WRITER_1_*_1) : (IS | INT_RepoAcademy) : node01 : WRT_8168 : End loading table [each_insurance_data_tgt] at: Wed Apr 13 21:32:28 2022
+2022-04-13 21:32:28 : INFO : (4308 | WRITER_1_*_1) : (IS | INT_RepoAcademy) : node01 : WRT_8168 : End loading table [each_insurance_data_tgt] at: Wed Apr 13 21:32:28 2022
+2022-04-13 21:32:28 : INFO : (4308 | WRITER_1_*_1) : (IS | INT_RepoAcademy) : node01 : WRT_8168 : End loading table [each_insurance_data_tgt] at: Wed Apr 13 21:32:28 2022
+2022-04-13 21:32:28 : INFO : (4308 | WRITER_1_*_1) : (IS | INT_RepoAcademy) : node01 : WRT_8168 : End loading table [each_insurance_data_tgt] at: Wed Apr 13 21:32:28 2022
+2022-04-13 21:32:28 : INFO : (4308 | WRITER_1_*_1) : (IS | INT_RepoAcademy) : node01 : WRT_8168 : End loading table [each_insurance_data_tgt] at: Wed Apr 13 21:32:28 2022
+2022-04-13 21:32:28 : INFO : (4308 | WRITER_1_*_1) : (IS | INT_RepoAcademy) : node01 : WRT_8168 : End loading table [each_insurance_data_tgt] at: Wed Apr 13 21:32:28 2022
+2022-04-13 21:32:28 : INFO : (4308 | WRITER_1_*_1) : (IS | INT_RepoAcademy) : node01 : WRT_8035 : Load complete time: Wed Apr 13 21:32:28 2022
+
+LOAD SUMMARY
+============
+
+WRT_8036 Target: each_insurance_data_tgt (Instance Name: [AFI_insurance_data_tgt])
+WRT_8038 Inserted rows - Requested: 25         Applied: 25         Rejected: 0          Affected: 25        
+
+WRT_8036 Target: each_insurance_data_tgt (Instance Name: [OHI_insurance_data_tgt])
+WRT_8038 Inserted rows - Requested: 31         Applied: 31         Rejected: 0          Affected: 31        
+
+WRT_8036 Target: each_insurance_data_tgt (Instance Name: [WHP_insurance_data_tgt])
+WRT_8038 Inserted rows - Requested: 52         Applied: 52         Rejected: 0          Affected: 52        
+
+WRT_8036 Target: each_insurance_data_tgt (Instance Name: [AHIP_insurance_data_tgt])
+WRT_8038 Inserted rows - Requested: 37         Applied: 37         Rejected: 0          Affected: 37        
+
+WRT_8036 Target: each_insurance_data_tgt (Instance Name: [FEHBP_insurance_data_tgt])
+WRT_8038 Inserted rows - Requested: 43         Applied: 43         Rejected: 0          Affected: 43        
+
+WRT_8036 Target: each_insurance_data_tgt (Instance Name: [OHP_insurance_data_tgt])
+WRT_8038 Inserted rows - Requested: 40         Applied: 40         Rejected: 0          Affected: 40        
+
+WRT_8036 Target: each_insurance_data_tgt (Instance Name: [CHC_insurance_data_tgt])
+WRT_8038 Inserted rows - Requested: 57         Applied: 57         Rejected: 0          Affected: 57        
+
+WRT_8036 Target: each_insurance_data_tgt (Instance Name: [NHP_insurance_data_tgt])
+WRT_8038 Inserted rows - Requested: 37         Applied: 37         Rejected: 0          Affected: 37        
+
+WRT_8036 Target: each_insurance_data_tgt (Instance Name: [SHALI_insurance_data_tgt])
+WRT_8038 Inserted rows - Requested: 28         Applied: 28         Rejected: 0          Affected: 28        
+
+WRT_8036 Target: each_insurance_data_tgt (Instance Name: [CHI_insurance_data_tgt])
+WRT_8038 Inserted rows - Requested: 25         Applied: 25         Rejected: 0          Affected: 25        
+
+WRT_8036 Target: each_insurance_data_tgt (Instance Name: [HPHC_insurance_data_tgt])
+WRT_8038 Inserted rows - Requested: 55         Applied: 55         Rejected: 0          Affected: 55        
+
+
+2022-04-13 21:32:28 : INFO : (4308 | WRITER_1_*_1) : (IS | INT_RepoAcademy) : node01 : WRT_8043 : *****END LOAD SESSION*****
+2022-04-13 21:32:28 : INFO : (4308 | WRITER_1_*_1) : (IS | INT_RepoAcademy) : node01 : WRT_8006 : Writer run completed.
+2022-04-13 21:32:28 : INFO : (4308 | MANAGER) : (IS | INT_RepoAcademy) : node01 : PETL_24031 : 
+***** RUN INFO FOR TGT LOAD ORDER GROUP [1], CONCURRENT SET [1] *****
+Thread [READER_1_1_1] created for [the read stage] of partition point [SQ_patient_module] has completed. The total run time was insufficient for any meaningful statistics.
+Thread [TRANSF_1_1_1] created for [the transformation stage] of partition point [SQ_patient_module] has completed. The total run time was insufficient for any meaningful statistics.
+Thread [READER_1_2_1] created for [the read stage] of partition point [SQ_insurance_module] has completed. The total run time was insufficient for any meaningful statistics.
+Thread [TRANSF_1_2_1] created for [the transformation stage] of partition point [SQ_insurance_module] has completed. The total run time was insufficient for any meaningful statistics.
+Thread [WRITER_1_*_1] created for [the write stage] of partition point [AFI_insurance_data_tgt, OHI_insurance_data_tgt, WHP_insurance_data_tgt, AHIP_insurance_data_tgt, FEHBP_insurance_data_tgt, OHP_insurance_data_tgt, CHC_insurance_data_tgt, NHP_insurance_data_tgt, SHALI_insurance_data_tgt, CHI_insurance_data_tgt, HPHC_insurance_data_tgt] has completed. The total run time was insufficient for any meaningful statistics.
+
+2022-04-13 21:32:28 : INFO : (4308 | MANAGER) : (IS | INT_RepoAcademy) : node01 : PETL_24005 : PETL_24005 Starting post-session tasks. : (Wed Apr 13 21:32:28 2022)
+2022-04-13 21:32:28 : INFO : (4308 | POST-SESS) : (IS | INT_RepoAcademy) : node01 : PETL_24091 : Thread [POST-SESS] has the ID [10].
+2022-04-13 21:32:28 : INFO : (4308 | MANAGER) : (IS | INT_RepoAcademy) : node01 : PETL_24029 : PETL_24029 Post-session task completed successfully. : (Wed Apr 13 21:32:28 2022)
+2022-04-13 21:32:28 : INFO : (4308 | MAPPING) : (IS | INT_RepoAcademy) : node01 : TM_6018 : The session completed with [0] row transformation errors. 
+2022-04-13 21:32:28 : INFO : (4308 | MANAGER) : (IS | INT_RepoAcademy) : node01 : TE_7216 : Deleting cache files [C:\Informatica\10.1.0\server\infa_shared\Cache\PMJNR25_6_0_68.dat] for transformation [jn_insurance_id].
+2022-04-13 21:32:28 : INFO : (4308 | MANAGER) : (IS | INT_RepoAcademy) : node01 : TE_7216 : Deleting cache files [C:\Informatica\10.1.0\server\infa_shared\Cache\PMJNR25_6_0_68.idx] for transformation [jn_insurance_id].
+2022-04-13 21:32:28 : INFO : (4308 | MANAGER) : (IS | INT_RepoAcademy) : node01 : PETL_24002 : Parallel Pipeline Engine finished.
+2022-04-13 21:32:29 : INFO : (4308 | DIRECTOR) : (IS | INT_RepoAcademy) : node01 : PETL_24012 : Session run completed successfully.
+2022-04-13 21:32:29 : INFO : (4308 | DIRECTOR) : (IS | INT_RepoAcademy) : node01 : TM_6022 : 
+
+SESSION LOAD SUMMARY
+================================================
+
+2022-04-13 21:32:29 : INFO : (4308 | DIRECTOR) : (IS | INT_RepoAcademy) : node01 : TM_6252 : Source Load Summary.
+2022-04-13 21:32:29 : INFO : (4308 | DIRECTOR) : (IS | INT_RepoAcademy) : node01 : CMN_1740 : Table: [SQ_patient_module] (Instance Name: [SQ_patient_module])
+	 Output Rows [500], Affected Rows [500], Applied Rows [500], Rejected Rows [0]
+2022-04-13 21:32:29 : INFO : (4308 | DIRECTOR) : (IS | INT_RepoAcademy) : node01 : CMN_1740 : Table: [SQ_insurance_module] (Instance Name: [SQ_insurance_module])
+	 Output Rows [430], Affected Rows [430], Applied Rows [430], Rejected Rows [0]
+2022-04-13 21:32:29 : INFO : (4308 | DIRECTOR) : (IS | INT_RepoAcademy) : node01 : TM_6253 : Target Load Summary.
+2022-04-13 21:32:29 : INFO : (4308 | DIRECTOR) : (IS | INT_RepoAcademy) : node01 : CMN_1740 : Table: [each_insurance_data_tgt] (Instance Name: [AFI_insurance_data_tgt])
+	 Output Rows [25], Affected Rows [25], Applied Rows [25], Rejected Rows [0]
+2022-04-13 21:32:29 : INFO : (4308 | DIRECTOR) : (IS | INT_RepoAcademy) : node01 : CMN_1740 : Table: [each_insurance_data_tgt] (Instance Name: [OHI_insurance_data_tgt])
+	 Output Rows [31], Affected Rows [31], Applied Rows [31], Rejected Rows [0]
+2022-04-13 21:32:29 : INFO : (4308 | DIRECTOR) : (IS | INT_RepoAcademy) : node01 : CMN_1740 : Table: [each_insurance_data_tgt] (Instance Name: [WHP_insurance_data_tgt])
+	 Output Rows [52], Affected Rows [52], Applied Rows [52], Rejected Rows [0]
+2022-04-13 21:32:29 : INFO : (4308 | DIRECTOR) : (IS | INT_RepoAcademy) : node01 : CMN_1740 : Table: [each_insurance_data_tgt] (Instance Name: [AHIP_insurance_data_tgt])
+	 Output Rows [37], Affected Rows [37], Applied Rows [37], Rejected Rows [0]
+2022-04-13 21:32:29 : INFO : (4308 | DIRECTOR) : (IS | INT_RepoAcademy) : node01 : CMN_1740 : Table: [each_insurance_data_tgt] (Instance Name: [FEHBP_insurance_data_tgt])
+	 Output Rows [43], Affected Rows [43], Applied Rows [43], Rejected Rows [0]
+2022-04-13 21:32:29 : INFO : (4308 | DIRECTOR) : (IS | INT_RepoAcademy) : node01 : CMN_1740 : Table: [each_insurance_data_tgt] (Instance Name: [OHP_insurance_data_tgt])
+	 Output Rows [40], Affected Rows [40], Applied Rows [40], Rejected Rows [0]
+2022-04-13 21:32:29 : INFO : (4308 | DIRECTOR) : (IS | INT_RepoAcademy) : node01 : CMN_1740 : Table: [each_insurance_data_tgt] (Instance Name: [CHC_insurance_data_tgt])
+	 Output Rows [57], Affected Rows [57], Applied Rows [57], Rejected Rows [0]
+2022-04-13 21:32:29 : INFO : (4308 | DIRECTOR) : (IS | INT_RepoAcademy) : node01 : CMN_1740 : Table: [each_insurance_data_tgt] (Instance Name: [NHP_insurance_data_tgt])
+	 Output Rows [37], Affected Rows [37], Applied Rows [37], Rejected Rows [0]
+2022-04-13 21:32:29 : INFO : (4308 | DIRECTOR) : (IS | INT_RepoAcademy) : node01 : CMN_1740 : Table: [each_insurance_data_tgt] (Instance Name: [SHALI_insurance_data_tgt])
+	 Output Rows [28], Affected Rows [28], Applied Rows [28], Rejected Rows [0]
+2022-04-13 21:32:29 : INFO : (4308 | DIRECTOR) : (IS | INT_RepoAcademy) : node01 : CMN_1740 : Table: [each_insurance_data_tgt] (Instance Name: [CHI_insurance_data_tgt])
+	 Output Rows [25], Affected Rows [25], Applied Rows [25], Rejected Rows [0]
+2022-04-13 21:32:29 : INFO : (4308 | DIRECTOR) : (IS | INT_RepoAcademy) : node01 : CMN_1740 : Table: [each_insurance_data_tgt] (Instance Name: [HPHC_insurance_data_tgt])
+	 Output Rows [55], Affected Rows [55], Applied Rows [55], Rejected Rows [0]
+2022-04-13 21:32:29 : INFO : (4308 | DIRECTOR) : (IS | INT_RepoAcademy) : node01 : TM_6023 : 
+===================================================
+
+2022-04-13 21:32:29 : INFO : (4308 | DIRECTOR) : (IS | INT_RepoAcademy) : node01 : TM_6020 : Session [s_m_each_insurance_data] completed at [Wed Apr 13 21:32:29 2022].
