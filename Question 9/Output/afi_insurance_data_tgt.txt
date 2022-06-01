@@ -1,0 +1,26 @@
+#patient_id|patient_name|DOB|gender|address|city|country|phone|ins_id|ins_name|ins_amount
+1|Basia Ervine|20-04-1976|Female|777 Brockton Avenue|Abington|USA|9547977288|508-70-8764|American Family Insurance|100000
+12|Daren Goodin|06-06-1983|Male|677 Timpany Blvd|Gardner|USA|9258756921|822-65-2064|American Family Insurance|100000
+45|Patten Brekonridge|25-02-1979|Male|13858 Rt 31 W|Albion|USA|9394846835|637-25-4760|American Family Insurance|100000
+59|Tamqrah Mantha|10-04-1955|Female|3949 Route 31|Clay|USA|9100343370|876-70-4339|American Family Insurance|100000
+76|Therine Buckthorpe|17-12-2015|Female|1549 Rt 9|Halfmoon|USA|9147187648|260-74-7562|American Family Insurance|100000
+121|Armand Stripling|23-08-2015|Male|680 Connecticut Avenue|Norwalk|USA|9109736136|212-55-4324|American Family Insurance|100000
+138|Josey Tyas|13-04-2013|Female|5560 Mcclellan Blvd|Anniston|USA|9407502477|140-78-0183|American Family Insurance|100000
+154|Osbert Weins|13-02-1965|Male|1950 W Main St|Centre|USA|8881914542|214-27-0064|American Family Insurance|100000
+188|Verile Laslett|29-12-1991|Female|6140A Univ Drive|Huntsville|USA|8956800800|326-37-3925|American Family Insurance|100000
+205|Cosette Mixer|11-09-2008|Female|851 Ann St|Montgomery|USA|8912059918|356-56-7257|American Family Insurance|100000
+222|Cross Behning|17-05-2014|Male|7855 Moffett Rd|Semmes|USA|8941358541|195-82-4435|American Family Insurance|100000
+255|Selie Wilfling|11-12-1998|Female|D-Block, Sector 63|Noida|India|8806474218|183-38-7391|American Family Insurance|100000
+271|Irvine Ayscough|18-10-1976|Male|Pune University|Pune|India|8513456355|508-44-2785|American Family Insurance|100000
+287|Izzy Germann|02-04-1998|Male|Sandhurst Road|Mumbai|India|8117859733|288-65-4990|American Family Insurance|100000
+317|Sherri Conlon|15-07-1985|Female|D-Block, Sector 63|Noida|India|8087916735|552-49-9036|American Family Insurance|100000
+331|Jess Arndell|31-01-1978|Female|Delhi High Court, India Gate|Delhi|India|8148373368|367-96-0119|American Family Insurance|100000
+347|Barbi Swatridge|19-03-1964|Female|Sector 14|Noida|India|8580656512|417-22-8110|American Family Insurance|100000
+362|Allyce Kirkman|10-04-1991|Female|Laxman Vihar Industrial Area, Sector 3A, Gurgoan| Gurgoan|India|8219924764|877-40-5694|American Family Insurance|100000
+377|Meridith Gajewski|31-08-1988|Female|Sector 1, Noida|Noida|India|8369883920|212-43-2321|American Family Insurance|100000
+391|Glenda Wrathmall|06-05-1971|Female|Yerawada, Pune, Maharashtra| Maharashtra|India|8755871437|575-88-5517|American Family Insurance|100000
+406|Fraze Hainge|21-02-1979|Male|FTI College, Law College Road, Pune| Pune|India|7600834835|163-51-9890|American Family Insurance|100000
+436|Ezmeralda Strickler|03-08-2001|Female|Laxman Vihar Industrial Area, Sector 3A, Gurgoan| Gurgoan|India|7067039858|591-15-8609|American Family Insurance|100000
+451|Alfie Maneylaws|03-05-1988|Male|Delhi University-GTB Nagar|Delhi|India|7655146902|158-26-2546|American Family Insurance|100000
+466|El Dorie|22-06-1970|Male|Dockyard Road, Mumbai CST Area|Mumbai|India|7309107420|545-85-9059|American Family Insurance|100000
+483|Kendrick Swinfon|28-03-1996|Male|Laxman Vihar Industrial Area, Sector 3A, Gurgoan| Gurgoan|India|7507907536|115-74-2708|American Family Insurance|100000
