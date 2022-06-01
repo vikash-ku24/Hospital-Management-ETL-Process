@@ -1,0 +1,38 @@
+#patient_id|patient_name|DOB|gender|address|city|country|phone|ins_id|ins_name|ins_amount
+9|Sharlene Giroldo|07-06-2002|Female|42 Fairhaven Commons Way|Fairhaven|USA|9400210370|323-69-5247|American Health Insurance Plans|145000
+20|Dennie Kilbourn|25-06-1956|Female|780 Lynnway|Lynn|USA|9853913184|845-66-3550|American Health Insurance Plans|145000
+28|Neala Trevorrow|06-02-1960|Female|180 North King Street|Northhampton|USA|9475299426|881-32-9029|American Health Insurance Plans|145000
+37|Staford Woollcott|19-10-2015|Male|100 Charlton Road|Sturbridge|USA|9524424675|302-85-1486|American Health Insurance Plans|145000
+44|Hubert Gillmore|19-05-2001|Male|141 Washington Ave Extension|Albany|USA|9494235956|708-27-9049|American Health Insurance Plans|145000
+53|Tracie Aupol|08-01-1998|Female|30 Catskill|Catskill|USA|9704292016|458-57-2493|American Health Insurance Plans|145000
+67|Romonda Pillans|23-10-1976|Female|901 Route 110|Farmingdale|USA|9265670775|180-85-4322|American Health Insurance Plans|145000
+84|Evonne Gudge|04-11-1976|Female|601 Frank Stottile Blvd|Kingston|USA|9323927532|308-38-3446|American Health Insurance Plans|145000
+99|Toddy Lambart|06-05-1959|Male|4765 Commercial Drive|New Hartford|USA|9600071046|811-34-0872|American Health Insurance Plans|145000
+114|Lyda Woodroff|22-03-1988|Female|1365 Boston Post Road|Milford|USA|9311742449|760-01-7638|American Health Insurance Plans|145000
+129|Julius Walesby|21-02-1987|Male|970 Torringford Street|Torrington|USA|9463810212|660-43-6729|American Health Insurance Plans|145000
+146|Nancie Sudlow|06-06-1964|Female|1600 Montclair Rd|Birmingham|USA|9781158368|875-27-7471|American Health Insurance Plans|145000
+162|Mack Catlette|29-01-2008|Male|4310 Montgomery Hwy|Dothan|USA|8800538923|686-96-3852|American Health Insurance Plans|145000
+179|Cash Hawkswell|24-05-1972|Male|1201 Hwy 31 NW|Hartselle|USA|8837165293|191-58-0099|American Health Insurance Plans|145000
+196|Inna Orford|02-01-1966|Female|6350 Cottage Hill Road|Mobile|USA|8946829826|717-23-9556|American Health Insurance Plans|145000
+213|Ray Keenor|22-02-2008|Female|2181 Pelham Pkwy|Pelham|USA|8824936937|199-44-0770|American Health Insurance Plans|145000
+230|Melantha Fundell|08-07-1970|Female|1501 Skyland Blvd E|Tuscaloosa|USA|8897587995|236-03-5318|American Health Insurance Plans|145000
+236|Ricard Troucher|16-11-1964|Male|Sector 3|Marathalli|India|8839133029|567-38-9545|American Health Insurance Plans|145000
+246|Nicko Pesic|10-01-1980|Male|Yerawada|Pune|India|8803767885|499-34-4423|American Health Insurance Plans|145000
+252|Kermie Crassweller|16-05-1978|Male|Dockyard Road|Mumbai|India|8271433416|444-05-5713|American Health Insurance Plans|145000
+263|Carroll Dowding|01-01-1976|Female|Dockyard Road, Mumbai CST Area|Mumbai|India|8128087496|256-84-1356|American Health Insurance Plans|145000
+279|Patrick Dare|12-07-1960|Male|Tiretti|Kolkata|India|8425007889|411-88-3480|American Health Insurance Plans|145000
+295|Lilias Votier|08-01-1956|Female|MG Road|Pune|India|8225888115|179-23-8010|American Health Insurance Plans|145000
+310|Helaina Shotter|21-01-2008|Female|Chandni Chowk|Kolkata|India|8778787404|432-25-7574|American Health Insurance Plans|145000
+325|Larissa Geroldini|21-05-1962|Female|Sandhurst Road, Mumbai CST Area|Mumbai|India|8208601011|835-18-8462|American Health Insurance Plans|145000
+339|Julita Alldis|11-07-2007|Female|FTI College, Law College Road|Pune|India|8234940059|854-15-4782|American Health Insurance Plans|145000
+346|Nelia Raithby|11-07-1982|Female|Mico Layout, Stage 2, BTM Layout|Bangalore|India|8371115430|154-74-8764|American Health Insurance Plans|145000
+355|Analiese Glassford|12-01-2007|Female|Rmz Centennial, I Gate, Whitefield| Whitefield|India|8108383107|849-32-9614|American Health Insurance Plans|145000
+370|Dennet Lippiatt|28-06-1964|Male|Sector 1, Noida|Noida|India|8879983977|136-84-4346|American Health Insurance Plans|145000
+385|Den Legrice|09-08-1986|Male|Yerawada, Pune, Maharashtra| Maharashtra|India|8060067958|541-49-0911|American Health Insurance Plans|145000
+399|Ali Goch|17-01-1966|Male|Raja Bazar, Kolkata|Kolkata|India|7643668934|814-48-5796|American Health Insurance Plans|145000
+414|Orsa Urvoy|02-08-1965|Female|Delhi Cantt.|Delhi|India|7082008636|608-62-7129|American Health Insurance Plans|145000
+429|Vinny Sivil|23-07-1970|Female|Raja Bazar, Kolkata|Kolkata|India|7113040807|791-46-1773|American Health Insurance Plans|145000
+444|Bertie Fernant|24-10-1955|Female|Sector 3, Marathalli|Noida|India|7495756634|306-58-3668|American Health Insurance Plans|145000
+462|Matilda Renouf|09-09-1966|Female|Laxman Vihar Industrial Area, Sector 3A, Gurgoan| Gurgoan|India|7496761292|144-52-4356|American Health Insurance Plans|145000
+474|Thorsten Santer|16-04-1986|Male|Sector 3, Marathalli|Marathalli|India|7665769881|254-68-1356|American Health Insurance Plans|145000
+491|Lawton Lindenblatt|20-04-2005|Male|D-Block, Sector 63, Noida| Noida|India|7236684054|816-58-3431|American Health Insurance Plans|145000
