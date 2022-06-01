@@ -1,0 +1,26 @@
+#patient_id|patient_name|DOB|gender|address|city|country|phone|ins_id|ins_name|ins_amount
+38|Lissi Dries|20-06-2008|Female|262 Swansea Mall Dr|Swansea|USA|9916408337|407-64-7168|Cigna Health Insurance|800000
+68|Melosa Alliband|02-01-1985|Female|2400 Route 9|Fishkill|USA|9985733297|632-56-6646|Cigna Health Insurance|800000
+85|Mahmoud Americi|23-09-2012|Male|350 E Fairmount Ave|Lakewood|USA|9423237299|444-98-8576|Cigna Health Insurance|800000
+100|Fenelia Farge|10-03-1998|Female|1201 Rt 300|Newburgh|USA|9592869929|669-48-2935|Cigna Health Insurance|800000
+115|Calli Margaritelli|19-04-1984|Female|1100 New Haven Road|Naugatuck|USA|9513131021|285-30-9336|Cigna Health Insurance|800000
+130|Nial Bullan|23-05-1959|Male|844 No Colony Road|Wallingford|USA|9796188324|483-33-2365|Cigna Health Insurance|800000
+147|Alf Ackred|25-04-1987|Male|5919 Trussville Crossings Pkwy|Birmingham|USA|9830022379|892-37-0003|Cigna Health Insurance|800000
+163|Felecia Bindley|26-08-1993|Female|600 Boll Weevil Circle|Enterprise|USA|8976011810|537-71-5247|Cigna Health Insurance|800000
+180|Karola Walsham|07-09-1962|Female|209 Lakeshore Parkway|Homewood|USA|8949708529|458-08-2796|Cigna Health Insurance|800000
+214|Kellen Lambeth|17-06-2011|Female|165 Vaughan Ln|Pell City|USA|8822530288|841-08-4384|Cigna Health Insurance|800000
+237|Gabey Mayes|02-11-1956|Female|Mumbai Central|Mumbai|India|8939085868|268-98-3302|Cigna Health Insurance|800000
+247|Myron Bunney|28-04-1963|Male|Sector 1|Noida|India|8985090216|333-64-5496|Cigna Health Insurance|800000
+253|Gilly Casse|06-02-1975|Female|Pune University|Pune|India|8647742525|602-64-3916|Cigna Health Insurance|800000
+264|Fidel Robertsson|25-05-2011|Male|Sector 1| Noida|India|8719023223|660-79-5147|Cigna Health Insurance|800000
+280|Dilan Brownsword|13-08-1970|Male|Majestic|Bangalore|India|8010230853|434-29-3804|Cigna Health Insurance|800000
+296|Valentijn Amer|02-06-2005|Male|Sector 1|Noida|India|8019862310|668-02-8258|Cigna Health Insurance|800000
+326|Riley Juliano|04-04-1971|Male|Sector 63A|Gurgaon|India|8192936191|605-46-7425|Cigna Health Insurance|800000
+340|Raphael Feighry|27-04-1966|Male|Dockyard Road, Mumbai CST Area|Mumbai|India|8147676785|284-37-1697|Cigna Health Insurance|800000
+371|Sigismund Cornilleau|13-03-1995|Male|Mumbai Central|Mumbai|India|8299123982|442-73-2984|Cigna Health Insurance|800000
+386|Dill Issacov|24-01-2013|Male|Pune University|Pune|India|8436433815|405-73-8073|Cigna Health Insurance|800000
+415|Tedie Snel|07-01-1982|Male|Mumbai Central|Mumbai|India|7578775117|665-97-9692|Cigna Health Insurance|800000
+430|Nickola Darcey|18-08-1986|Male|Mumbai Central|Mumbai|India|7864520366|523-09-1305|Cigna Health Insurance|800000
+445|Trish Hollier|07-03-1992|Female|Mumbai Central|Mumbai|India|7375460815|721-66-0964|Cigna Health Insurance|800000
+460|Lizzy Findley|02-04-1992|Female|Nathan Road, Mangaldas Road, Pune| Pune|India|7018455335|872-10-7317|Cigna Health Insurance|800000
+475|Donnell Hulmes|26-12-1968|Male|D-Block, Sector 63, Noida| Noida|India|7624127529|425-33-6346|Cigna Health Insurance|800000
