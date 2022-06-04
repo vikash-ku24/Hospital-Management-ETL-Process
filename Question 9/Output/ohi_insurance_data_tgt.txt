@@ -1,0 +1,32 @@
+#patient_id|patient_name|DOB|gender|address|city|country|phone|ins_id|ins_name|ins_amount
+13|Dedie Bail|10-01-2004|Female|337 Russell St|Hadley|USA|9883157208|734-71-1215|Oscar Health Insurance|150000
+46|Caprice Duns|02-07-1960|Female|2055 Niagara Falls Blvd|Amherst|USA|9589246024|284-07-8451|Oscar Health Insurance|150000
+60|Lilyan Crocket|25-09-1999|Female|139 Merchant Place|Cobleskill|USA|9886736405|352-94-6125|Oscar Health Insurance|150000
+77|Krista Sommerfeld|19-04-1977|Female|5360 Southwestern Blvd|Hamburg|USA|9559500342|185-58-7735|Oscar Health Insurance|150000
+92|Johnette Pfeiffer|25-07-2006|Female|200 Sunrise Mall|Massapequa|USA|9480614574|626-46-9381|Oscar Health Insurance|150000
+107|Cathrin Anderson|13-11-1977|Female|69 Prospect Hill Road|East Windsor|USA|9167214990|220-19-6618|Oscar Health Insurance|150000
+122|Channa Sueter|08-11-2006|Female|220 Salem Turnpike|Norwich|USA|9151844596|403-08-6711|Oscar Health Insurance|150000
+139|Margarette Stert|21-07-1986|Female|1450 No Brindlee Mtn Pkwy|Arab|USA|9017921281|231-08-1278|Oscar Health Insurance|150000
+172|Jessie Deelay|23-09-1970|Male|890 Odum Road|Gardendale|USA|8806876475|431-82-4368|Oscar Health Insurance|150000
+189|Ferdie Lamble|23-07-1998|Male|4206 N College Ave|Jackson|USA|8956589511|561-54-8216|Oscar Health Insurance|150000
+206|Francois Tullett|08-08-2014|Male|15445 Highway 24|Moulton|USA|8833839908|272-75-6688|Oscar Health Insurance|150000
+223|Sallee Rispine|11-07-1986|Female|150 Springville Station Blvd|Springville|USA|8812813279|470-60-6244|Oscar Health Insurance|150000
+239|Erhart Cloutt|20-04-1992|Male|Rmz Centennial, I Gate|Whitefield|India|8879773752|220-90-9159|Oscar Health Insurance|150000
+256|Junina Episcopi|15-09-2014|Female|Sector 14|Noida|India|8434270199|620-12-5929|Oscar Health Insurance|150000
+272|Daniele Holleworth|18-10-1992|Female|Moulali|Kolkata|India|8010305526|295-21-3433|Oscar Health Insurance|150000
+288|Kincaid Cullen|01-07-1967|Male|MG Road|Pune|India|8602618027|758-99-0645|Oscar Health Insurance|150000
+303|Franky Ditchett|04-04-1956|Female|Delhi High Court, India Gate|Delhi|India|8625509673|899-11-6522|Oscar Health Insurance|150000
+318|Con Davers|23-02-1987|Female|Sector 14|Noida|India|8132414050|345-18-7263|Oscar Health Insurance|150000
+348|Christine Gossop|16-06-1991|Female|FTI College, Law College Road, Pune| Pune|India|8230408900|376-52-9883|Oscar Health Insurance|150000
+363|Jobi Lessmare|16-08-1972|Female|Mico Layout, Stage 2, BTM Layout,Bangalore| BTM Layout,Bangalor|India|8653306665|364-89-9966|Oscar Health Insurance|150000
+378|Caryn Banville|21-12-1988|Female|FTI College, Law College Road, Pune| Pune|India|8001251068|137-12-5745|Oscar Health Insurance|150000
+392|Derk Crippell|04-11-1971|Male|Mumbai Central|Mumbai|India|8286707639|847-20-7058|Oscar Health Insurance|150000
+403|Fremont Duthy|12-02-1957|Male|Yerawada, Pune, Maharashtra| Maharashtra|India|7023500843|791-42-3268|Oscar Health Insurance|150000
+407|Phil Whitham|06-03-2004|Female|FTI College, Law College Road, Pune| Pune|India|7350538762|545-27-2243|Oscar Health Insurance|150000
+417|Emma Dunley|19-05-2014|Female|Laxman Vihar Industrial Area, Sector 3A, Gurgoan| Gurgoan|India|7103996574|432-45-9809|Oscar Health Insurance|150000
+452|Baily De Witt|25-02-1990|Male|FTI College, Law College Road, Pune| Pune|India|7148274464|182-05-9687|Oscar Health Insurance|150000
+463|Donielle Essery|16-07-1963|Female|Pune University|Pune|India|7127635683|102-83-7920|Oscar Health Insurance|150000
+467|Leontine Flood|22-03-1977|Female|Mico Layout, Stage 2, BTM Layout,Bangalore| BTM Layout,Bangalor|India|7619153260|802-82-6994|Oscar Health Insurance|150000
+477|Wilmar Lyosik|13-04-1976|Male|Sector 3, Marathalli|Marathalli|India|7548593003|808-05-4159|Oscar Health Insurance|150000
+484|Joyce Heaysman|25-06-1985|Female|Moulali, Kolkata|Kolkata|India|7316145907|644-27-6435|Oscar Health Insurance|150000
+495|Zeke Vellden|02-08-1994|Male|Sector 1, Noida|Noida|India|7239663815|353-10-6476|Oscar Health Insurance|150000
