@@ -1,0 +1,29 @@
+#patient_id|patient_name|DOB|gender|address|city|country|phone|ins_id|ins_name|ins_amount
+11|Kele Vlach|09-03-1994|Male|121 Worcester Rd|Framingham|USA|9880460301|192-46-0743|Sierra Health And Life Insurance|52500
+22|Berget Mealiffe|26-12-1970|Female|830 Curran Memorial Hwy|North Adams|USA|9037270579|229-42-0988|Sierra Health And Life Insurance|525000
+39|Neilla Samart|20-11-1968|Female|333 Main Street|Tewksbury|USA|9627979836|776-81-6536|Sierra Health And Life Insurance|525000
+55|Lewes Alldis|01-01-1981|Male|3018 East Ave|Central Square|USA|9990221548|626-18-4402|Sierra Health And Life Insurance|525000
+86|Norma Burnet|11-11-1996|Female|4975 Transit Rd|Lancaster|USA|9812231632|147-84-8497|Sierra Health And Life Insurance|525000
+101|Adria O'Rafferty|26-03-1980|Female|255 W Main St|Avon|USA|9108763790|657-87-3411|Sierra Health And Life Insurance|525000
+116|Ross Vercruysse|23-06-1984|Male|315 Foxon Blvd|New Haven|USA|9150171350|234-48-9129|Sierra Health And Life Insurance|525000
+131|Kirsti McEvoy|11-06-1986|Female|910 Wolcott St|Waterbury|USA|9291078841|557-66-2068|Sierra Health And Life Insurance|525000
+148|Giana Guye|20-04-1970|Female|9248 Parkway East|Birmingham|USA|9455840692|465-64-8266|Sierra Health And Life Insurance|525000
+164|Brandi Dawtrey|04-02-1966|Female|3176 South Eufaula Avenue|Eufaula|USA|8976188194|679-83-7714|Sierra Health And Life Insurance|525000
+198|Geraldine Rasp|05-01-1981|Female|2500 Dawes Road|Mobile|USA|8934394918|332-35-1270|Sierra Health And Life Insurance|525000
+215|Nobe Eggleson|20-05-1988|Male|3700 Hwy 280-431 N|Phenix City|USA|8858497992|393-65-8467|Sierra Health And Life Insurance|525000
+232|Zachariah Worswick|03-09-1976|Male|1300 Montgomery Highway|Vestavia Hills|USA|8982877706|171-07-1680|Sierra Health And Life Insurance|525000
+248|Shae Pasley|20-05-1977|Male|Delhi University-GTB Nagar|Delhi|India|8870464872|855-38-1963|Sierra Health And Life Insurance|525000
+265|Norah Grebner|05-04-1992|Female|Gora Bazar, Rajbari, North Dumdum, Kolkata| North Dumdum, Kolka|India|8219778392|670-52-7068|Sierra Health And Life Insurance|525000
+281|Aldon Rief|07-11-1979|Male|D-Block, Sector 63, Noida| Noida|India|8177710777|730-25-3648|Sierra Health And Life Insurance|525000
+312|Leigh Wheelan|13-09-1992|Male|Rmz Centennial, I Gate|Whitefield|India|8193771162|455-96-1548|Sierra Health And Life Insurance|525000
+327|Matias Corradi|10-09-1984|Male|Mico Layout, Stage 2, BTM Layout,Bangalore| BTM Layout,Bangalor|India|8421630756|750-84-3895|Sierra Health And Life Insurance|525000
+341|Cristiano Massey|10-02-1966|Male|Tejas Nagar Colony, Wadala West, Mumbai| Mumbai|India|8497171785|749-32-0882|Sierra Health And Life Insurance|525000
+357|Wilma Brogan|13-10-1964|Female|Delhi Cantt.|Delhi|India|8088769557|713-83-0868|Sierra Health And Life Insurance|525000
+372|Clementina Littledike|20-01-1961|Female|D-Block, Sector 63, Noida| Noida|India|8306074014|865-07-1848|Sierra Health And Life Insurance|525000
+387|Sammy McCaughey|23-10-1997|Male|Delhi High Court, India Gate|Delhi|India|8083120860|512-96-8262|Sierra Health And Life Insurance|525000
+401|Adena Stinson|26-10-1987|Female|Laxman Vihar Industrial Area, Sector 3A, Gurgoan| Gurgoan|India|7354494981|211-67-1527|Sierra Health And Life Insurance|525000
+416|Rory Fludder|11-03-1983|Male|Rmz Centennial, I Gate, Whitefield| Whitefield|India|7156344036|479-59-5862|Sierra Health And Life Insurance|525000
+431|Augy Reicharz|11-01-1971|Male|Pune University|Pune|India|7760928610|341-29-5952|Sierra Health And Life Insurance|525000
+446|Kristin Burford|23-07-1972|Female|MG Road, Pune|Pune|India|7069383174|697-06-0013|Sierra Health And Life Insurance|525000
+476|Vittorio Marder|28-03-1976|Male|Babarpur, New Delhi, Delhi| Delhi|India|7375681322|826-31-8187|Sierra Health And Life Insurance|525000
+493|Betteanne Outibridge|27-04-1997|Female|Sector 63A,Gurgaon|Gurgaon|India|7808327150|795-74-9497|Sierra Health And Life Insurance|525000
