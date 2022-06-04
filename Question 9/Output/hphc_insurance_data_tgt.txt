@@ -1,0 +1,56 @@
+#patient_id|patient_name|DOB|gender|address|city|country|phone|ins_id|ins_name|ins_amount
+6|Neel Laird|14-05-2012|Male|591 Memorial Dr|Chicopee|USA|9377432442|432-31-1973|Harvard Pilgrim Health Care|75000
+25|Wainwright Fulep|12-10-1979|Male|742 Main Street|North Oxford|USA|9763385713|298-64-5725|Harvard Pilgrim Health Care|75000
+34|Quentin Igounet|29-08-1965|Female|450 Highland Ave|Salem|USA|9080656536|247-79-2568|Harvard Pilgrim Health Care|75000
+41|Freedman Hindge|18-07-1961|Male|352 Palmer Road|Ware|USA|9033293703|708-15-0804|Harvard Pilgrim Health Care|75000
+50|Lewes Piatkow|28-12-1993|Male|6265 Brockport Spencerport Rd|Brockport|USA|9766608190|824-08-2547|Harvard Pilgrim Health Care|75000
+57|Celinka Todari|03-01-1986|Female|8064 Brewerton Rd|Cicero|USA|9932042472|322-10-1846|Harvard Pilgrim Health Care|75000
+64|Burk Stamps|14-07-1956|Male|2465 Hempstead Turnpike|East Meadow|USA|9834646501|339-74-0560|Harvard Pilgrim Health Care|75000
+73|Bev Astlatt|11-03-1982|Male|311 RT 9W|Glenmont|USA|9427388762|816-47-9680|Harvard Pilgrim Health Care|75000
+81|Thorny Leming|17-03-2012|Male|135 Fairgrounds Memorial Pkwy|Ithaca|USA|9053222958|288-61-7773|Harvard Pilgrim Health Care|75000
+96|Lishe Ranklin|13-01-1969|Female|3133 E Main St|Mohegan Lake|USA|9211884837|594-10-9733|Harvard Pilgrim Health Care|75000
+103|Daphne Kach|25-03-1956|Female|1400 Farmington Ave|Bristol|USA|9428262445|288-21-9582|Harvard Pilgrim Health Care|75000
+118|Noah Essex|30-07-1994|Male|3164 Berlin Turnpike|Newington|USA|9377540543|236-04-3926|Harvard Pilgrim Health Care|75000
+126|Cullie Honnicott|02-06-1981|Male|465 Bridgeport Avenue|Shelton|USA|9028121862|733-53-0647|Harvard Pilgrim Health Care|75000
+133|Mona Kebell|18-11-1956|Female|515 Sawmill Road|West Haven|USA|9891121722|545-73-4621|Harvard Pilgrim Health Care|75000
+136|Wes Heigold|05-03-1977|Male|2643 Hwy 280 West|Alexander City|USA|9770739549|317-33-7088|Harvard Pilgrim Health Care|75000
+152|Lizzie Sellack|05-04-1960|Female|5100 Hwy 31|Calera|USA|8943256269|479-67-4581|Harvard Pilgrim Health Care|75000
+159|Conrado Czadla|14-11-1964|Male|2800 Spring Avn SW|Decatur|USA|8979779333|215-50-0710|Harvard Pilgrim Health Care|75000
+168|Terrel Mattosoff|22-06-1964|Male|3100 Hough Rd|Florence|USA|8850035503|536-53-4464|Harvard Pilgrim Health Care|75000
+176|Sibylla Delucia|14-02-1995|Female|11697 US Hwy 431|Guntersville|USA|8826035753|782-15-8993|Harvard Pilgrim Health Care|75000
+186|Franky Daughtry|18-05-1992|Female|2200 Sparkman Drive|Huntsville|USA|8913428083|327-80-3785|Harvard Pilgrim Health Care|75000
+193|Woody Burk|03-10-1993|Male|8650 Madison Blvd|Madison|USA|8829476886|220-05-4057|Harvard Pilgrim Health Care|75000
+202|Ruperto Caveill|11-01-2014|Male|10710 Chantilly Pkwy|Montgomery|USA|8881558512|576-48-6712|Harvard Pilgrim Health Care|75000
+210|Kristin Adenot|07-04-1973|Female|2900 Pepperrell Pkwy|Opelika|USA|8957454231|885-17-2872|Harvard Pilgrim Health Care|75000
+219|Drucy Glancey|11-06-2013|Female|1095 Industrial Pkwy|Saraland|USA|8855823624|894-27-4359|Harvard Pilgrim Health Care|75000
+227|Deedee Bycraft|11-02-1987|Female|1300 Gilmer Ave|Tallassee|USA|8900838511|596-83-8622|Harvard Pilgrim Health Care|75000
+233|Reinhard Dixcee|16-01-1996|Male|4538 Us Hwy 231|Wetumpka|USA|8842699397|485-32-4305|Harvard Pilgrim Health Care|75000
+243|Stace Fake|19-12-1956|Female|Delhi University-GTB Nagar|Delhi|India|8992187944|233-43-3382|Harvard Pilgrim Health Care|75000
+249|Ugo Shayes|01-04-1991|Male|Delhi Administration Flats, Timarpur|Delhi|India|8199568233|227-12-8340|Harvard Pilgrim Health Care|75000
+260|Gianni Fitzer|07-08-1959|Male|Mico Layout, Stage 2, BTM Layout,Bangalore| BTM Layout,Bangalor|India|8605224197|696-63-1381|Harvard Pilgrim Health Care|75000
+268|Casie Bresson|16-10-1972|Female|D-Block, Sector 63, Noida| Noida|India|8868448278|613-91-3213|Harvard Pilgrim Health Care|75000
+276|Verna Jimson|19-09-2005|Female|Mumbai Central|Mumbai|India|8214877390|853-88-4984|Harvard Pilgrim Health Care|75000
+284|Jody Giffard|01-07-1976|Female|Delhi University-GTB Nagar|Delhi|India|8817120241|712-88-0682|Harvard Pilgrim Health Care|75000
+292|Erik Tick|02-01-1993|Male|Delhi University-GTB Nagar|Delhi|India|8374641775|534-71-5367|Harvard Pilgrim Health Care|75000
+300|Buffy Pragnall|14-08-1999|Female|Sector 14|Noida|India|8222501394|483-57-4597|Harvard Pilgrim Health Care|75000
+307|Niccolo Parrott|31-12-1961|Male|Sector 1|Noida|India|8679906748|677-16-7393|Harvard Pilgrim Health Care|75000
+315|Orrin Barbery|17-09-2005|Male|Sandhurst Road, Mumbai CST Area|Mumbai|India|8132564544|893-97-5792|Harvard Pilgrim Health Care|75000
+322|Prudy Rebbeck|27-01-1998|Female|D-Block, Sector 63|Noida|India|8544065742|281-11-0878|Harvard Pilgrim Health Care|75000
+328|Nanny Chalcraft|18-02-1985|Female|Rmz Centennial, I Gate, Whitefield| Whitefield|India|8472775675|665-22-0928|Harvard Pilgrim Health Care|75000
+336|Alie Lyne|17-01-1963|Female|Pune University|Pune|India|8309981670|135-15-6046|Harvard Pilgrim Health Care|75000
+343|Mirella Alldritt|18-03-1969|Female|Delhi Administration Flats, Timarpur|Delhi|India|8858238368|459-87-1452|Harvard Pilgrim Health Care|75000
+352|Alison Klais|26-09-1956|Female|Rmz Centennial, I Gate, Whitefield| Whitefield|India|8457542612|800-77-7656|Harvard Pilgrim Health Care|75000
+359|Angelico Jiru|29-06-1973|Male|Mico Layout, Stage 2, BTM Layout,Bangalore| BTM Layout,Bangalor|India|8319058644|775-27-7276|Harvard Pilgrim Health Care|75000
+367|Karly Grinishin|30-05-1966|Female|Mico Layout, Stage 2, BTM Layout,Bangalore| BTM Layout,Bangalor|India|8676181888|320-95-6639|Harvard Pilgrim Health Care|75000
+374|Jameson Shepstone|13-05-1982|Male|Laxman Vihar Industrial Area, Sector 3A, Gurgoan| Gurgoan|India|8692831268|625-40-7133|Harvard Pilgrim Health Care|75000
+382|Jan Vamplus|06-09-1992|Male|Delhi Administration Flats, Timarpur|Delhi|India|8351533494|799-89-7465|Harvard Pilgrim Health Care|75000
+396|Zelda Crichten|06-05-1984|Female|Mumbai Central|Mumbai|India|8714114152|572-03-9916|Harvard Pilgrim Health Care|75000
+411|Clementine Downage|11-07-1995|Female|Mumbai Central|Mumbai|India|7227297430|186-46-3333|Harvard Pilgrim Health Care|75000
+426|Michaelina Itzhayek|05-05-1975|Female|Mico Layout, Stage 2, BTM Layout,Bangalore| BTM Layout,Bangalor|India|7765268174|228-71-0712|Harvard Pilgrim Health Care|75000
+434|Christean Auchinleck|10-08-1964|Female|Delhi University-GTB Nagar|Delhi|India|7687028465|198-28-5390|Harvard Pilgrim Health Care|75000
+441|Livy O'Crigane|23-01-1963|Female|Panjetan Colony, Malakpet, Hyderabad| Hyderabad|India|7284345190|372-14-9894|Harvard Pilgrim Health Care|75000
+448|Odilia Esser|27-02-1966|Female|Mico Layout, Stage 2, BTM Layout,Bangalore| BTM Layout,Bangalor|India|7603620616|155-24-5498|Harvard Pilgrim Health Care|75000
+456|Sybila Cobbald|03-01-1988|Female|Sector 1, Noida|Noida|India|7207087626|724-68-2894|Harvard Pilgrim Health Care|75000
+471|Erwin Chastand|21-07-1984|Male|Sector 1, Noida|Noida|India|7835119262|862-02-7065|Harvard Pilgrim Health Care|75000
+481|Ramsey Feenan|10-01-1981|Male|Mumbai Central|Mumbai|India|7425862004|307-91-2826|Harvard Pilgrim Health Care|75000
+499|Reinwald Eles|25-12-1958|Male|Babarpur, New Delhi, Delhi| Delhi|India|7794659826|301-19-1525|Harvard Pilgrim Health Care|75000
