@@ -1,0 +1,25 @@
+2022-04-14 08:07:07 : INFO : (4268 | 4644) : (IS | INT_RepoAcademy) : node01 : LM_36435 : Starting execution of workflow [wf_m_biling1_load] in folder [Training_Academy] last saved by user [infouser].
+2022-04-14 08:07:07 : INFO : (4268 | 4644) : (IS | INT_RepoAcademy) : node01 : LM_44206 : Workflow wf_m_biling1_load started with run id [73], run instance name [], run type [Concurrent Run Disabled].
+2022-04-14 08:07:07 : INFO : (4268 | 4644) : (IS | INT_RepoAcademy) : node01 : LM_44195 : Workflow [wf_m_biling1_load] service level [SLPriority:5,SLDispatchWaitTime:1800].
+2022-04-14 08:07:07 : INFO : (4268 | 4644) : (IS | INT_RepoAcademy) : node01 : LM_44253 : Workflow started. Clients will be notified
+2022-04-14 08:07:07 : INFO : (4268 | 4644) : (IS | INT_RepoAcademy) : node01 : LM_36330 : Start task instance [Start]: Execution started.
+2022-04-14 08:07:07 : INFO : (4268 | 4644) : (IS | INT_RepoAcademy) : node01 : LM_36318 : Start task instance [Start]: Execution succeeded.
+2022-04-14 08:07:07 : INFO : (4268 | 4644) : (IS | INT_RepoAcademy) : node01 : LM_36505 : Link [Start --> s_m_biling1_load]: empty expression string, evaluated to TRUE.
+2022-04-14 08:07:07 : INFO : (4268 | 4644) : (IS | INT_RepoAcademy) : node01 : LM_36388 : Session task instance [s_m_biling1_load] is waiting to be started.
+2022-04-14 08:07:07 : INFO : (4268 | 4652) : (IS | INT_RepoAcademy) : node01 : LM_36682 : Session task instance [s_m_biling1_load]: started a process with pid [4880] on node [node01].
+2022-04-14 08:07:07 : INFO : (4268 | 4652) : (IS | INT_RepoAcademy) : node01 : LM_36330 : Session task instance [s_m_biling1_load]: Execution started.
+2022-04-14 08:07:10 : INFO : (4268 | 4660) : (IS | INT_RepoAcademy) : node01 : LM_36488 : Session task instance [s_m_biling1_load] : [TM_6793 Fetching initialization properties from the Integration Service. : (Thu Apr 14 08:07:09 2022)]
+2022-04-14 08:07:10 : INFO : (4268 | 4660) : (IS | INT_RepoAcademy) : node01 : LM_36488 : Session task instance [s_m_biling1_load] : [DISP_20305 The [Preparer] DTM with process id [4880] is running on node [node01].
+ : (Thu Apr 14 08:07:09 2022)]
+2022-04-14 08:07:10 : INFO : (4268 | 4660) : (IS | INT_RepoAcademy) : node01 : LM_36488 : Session task instance [s_m_biling1_load] : [PETL_24036 Beginning the prepare phase for the session.]
+2022-04-14 08:07:10 : INFO : (4268 | 4660) : (IS | INT_RepoAcademy) : node01 : LM_36488 : Session task instance [s_m_biling1_load] : [TM_6721 Started [Connect to Repository].]
+2022-04-14 08:07:10 : INFO : (4268 | 4660) : (IS | INT_RepoAcademy) : node01 : LM_36488 : Session task instance [s_m_biling1_load] : [TM_6722 Finished [Connect to Repository].  It took [0.125036] seconds.]
+2022-04-14 08:07:10 : INFO : (4268 | 4660) : (IS | INT_RepoAcademy) : node01 : LM_36488 : Session task instance [s_m_biling1_load] : [TM_6794 Connected to repository [Repo_Academy] in domain [Domain_Training] as user [infouser] in security domain [Native].]
+2022-04-14 08:07:10 : INFO : (4268 | 4660) : (IS | INT_RepoAcademy) : node01 : LM_36488 : Session task instance [s_m_biling1_load] : [TM_6721 Started [Fetch Session from Repository].]
+2022-04-14 08:07:10 : INFO : (4268 | 4660) : (IS | INT_RepoAcademy) : node01 : LM_36488 : Session task instance [s_m_biling1_load] : [TM_6722 Finished [Fetch Session from Repository].  It took [0.0468688] seconds.]
+2022-04-14 08:07:10 : INFO : (4268 | 4660) : (IS | INT_RepoAcademy) : node01 : LM_36488 : Session task instance [s_m_biling1_load] : [TM_6721 Started [Partition Group Formation].]
+2022-04-14 08:07:10 : INFO : (4268 | 4660) : (IS | INT_RepoAcademy) : node01 : LM_36488 : Session task instance [s_m_biling1_load] : [TM_6722 Finished [Partition Group Formation].  It took [0.0156209] seconds.]
+2022-04-14 08:07:10 : INFO : (4268 | 4660) : (IS | INT_RepoAcademy) : node01 : LM_36488 : Session task instance [s_m_biling1_load] : [PETL_24037 Finished the prepare phase for the session.]
+2022-04-14 08:07:10 : INFO : (4268 | 4660) : (IS | INT_RepoAcademy) : node01 : LM_36488 : Session task instance [s_m_biling1_load] : [TM_6792 Notifying the Integration Service that the prepare phase has been completed. : (Thu Apr 14 08:07:10 2022)]
+2022-04-14 08:07:11 : INFO : (4268 | 4640) : (IS | INT_RepoAcademy) : node01 : LM_36318 : Session task instance [s_m_biling1_load]: Execution succeeded.
+2022-04-14 08:07:12 : INFO : (4268 | 4644) : (IS | INT_RepoAcademy) : node01 : LM_36318 : Workflow [wf_m_biling1_load]: Execution succeeded.
